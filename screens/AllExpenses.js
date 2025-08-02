@@ -1,6 +1,4 @@
-
 import ExpensesOutput from '../components/ExpensesOutput/ExpensesOutput';
-
 
 function AllExpenses() {
   return (
@@ -9,4 +7,3 @@ function AllExpenses() {
 }
 
 export default AllExpenses;
-
